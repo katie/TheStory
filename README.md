@@ -2,4 +2,4 @@
 Add one word to the story.
 
 # Chapter One
-Once upon
+Once upon a
