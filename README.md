@@ -1,5 +1,4 @@
 # The Story
-Add one word to the story.
 
-# Chapter One
+## Chapter One
 Once upon a
